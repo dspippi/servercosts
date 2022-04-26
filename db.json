@@ -23,8 +23,8 @@
       "id": 2
     },
     {
-      "name": "Teste",
-      "budget": "1444",
+      "name": "Meu projeto 1",
+      "budget": "2141414",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -32,61 +32,6 @@
       "cost": 0,
       "services": [],
       "id": 3
-    },
-    {
-      "name": "Teste",
-      "budget": "1444",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "Teste",
-      "budget": "1444",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "Meu projeto 1",
-      "budget": "10000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "Meu projeto teste 1",
-      "budget": "20000",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 7
-    },
-    {
-      "name": "Teste 1",
-      "budget": "1111",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 8
     }
   ],
   "categories": [
